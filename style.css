@@ -1,0 +1,17 @@
+.pinch-zoom-container{
+  width: 375px;
+  height:667px;
+
+}
+.pzcontainer{
+  position:relative;
+}
+div.page {
+  max-width: 2960px;
+  text-align:left;
+}
+.page pinch-zoom-parent{
+  height:2560px;
+  width:1440px;
+
+}
